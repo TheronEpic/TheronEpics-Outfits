@@ -77,8 +77,8 @@ outfit "Single Living Quarters"
 	description "This is just enough living space and life support systems for a single person to live in.
 	
 	
-outfit "Systems Core (Smaller)"
-	plural "Systems Cores (Smaller)"
+outfit "Systems Core (Tiny)"
+	plural "Systems Cores (Tiny)"
 	category "Systems"
 	cost 1452000
 	thumbnail "outfit/tiny systems core"
@@ -92,8 +92,8 @@ outfit "Systems Core (Smaller)"
 	"hull heat" 0.15
 	description `Just a little piece of junk I slapped together when I was bored.`
 		
-outfit "Systems Core (Tiny)"
-	plural "Systems Cores (Tiny)"
+outfit "Systems Core (Tinier)"
+	plural "Systems Cores (Tinier)"
 	category "Systems"
 	cost 1452000
 	thumbnail "outfit/tinier systems core"

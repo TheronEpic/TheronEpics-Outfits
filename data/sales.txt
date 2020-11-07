@@ -7,8 +7,8 @@ outfitter TheronEpic
 	"Single Plasma Turret"
 	"RT-H Radiothermal"
 	"RT-F Radiothermal"
-	"Systems Core (Smaller)"
 	"Systems Core (Tiny)"
+	"Systems Core (Tinier)"
 
 outfitter human
 	`F24 "Amber" Fuel Shield`
@@ -86,4 +86,4 @@ outfitter "Pirate Outfits"
 	"Single Living Quarters"
 
 outfitter "Remnant Salvage"
-	"Systems Core (Smaller)"
+	"Systems Core (Tiny)"
