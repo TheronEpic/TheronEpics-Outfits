@@ -7,6 +7,7 @@ outfitter TheronEpic
 	"Single Plasma Turret"
 	"RT-H Radiothermal"
 	"RT-F Radiothermal"
+	"Systems Core (Smaller)"
 	"Systems Core (Tiny)"
 
 outfitter human
