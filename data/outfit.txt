@@ -77,8 +77,8 @@ outfit "Single Living Quarters"
 	description "This is just enough living space and life support systems for a single person to live in.
 	
 	
-outfit "Systems Core (Smaller)"
-	plural "Systems Cores (Smaller)"
+outfit "Systems Core (Tiny)"
+	plural "Systems Cores (Tiny)"
 	category "Systems"
 	cost 1452000
 	thumbnail "outfit/tiny systems core"
@@ -91,18 +91,3 @@ outfit "Systems Core (Smaller)"
 	"hull energy" 0.1
 	"hull heat" 0.15
 	description `Just a little piece of junk I slapped together when I was bored.`
-		
-outfit "Systems Core (Tiny)"
-	plural "Systems Cores (Tiny)"
-	category "Systems"
-	cost 1452000
-	thumbnail "outfit/tinier systems core"
-	"mass" 9
-	"outfit space" -9
-	"energy capacity" 325
-	"shield generation" 0.4
-	"shield energy" 0.6
-	"hull repair rate" 0.05
-	"hull energy" 0.05
-	"hull heat" 0.075
-	description `Not available anywhere except my Omnis outfitter, just a little piece of junk I slapped together when I was bored.`
